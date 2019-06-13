@@ -1,0 +1,91 @@
+h1{
+    font-family: papyrus;
+    background-color: #865AC8;
+    display: block;
+    margin-block start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px:
+    margin-inline-end: 0px;
+    text-align: center;
+
+}
+
+h3{
+    display: block;
+    margin-block start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px:
+    margin-inline-end: 0px;
+    text-align: center;
+
+}
+
+.main {
+    display: block;
+    margin-block start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px:
+    margin-inline-end: 0px;
+    text-align: center;
+
+}
+
+#intro{
+       font size: 16px;
+       font family: calibri;
+       display: inline;
+       margin-block start: 1em;
+       margin-block-end: 1em;
+       margin-inline-start: 0px:
+       margin-inline-end: 0px;
+       text-align: center;
+       line-height: 16px;
+}
+
+p{
+    font-family: calibri;
+    display: inline;
+    line-height: 15px;
+    width: 980px;
+    margin-block-start: 1em;
+    margin-block-end: 1 em;
+    margin-inline-start: 0px
+    margin-inline-end: 0px;
+    text align: center;
+
+}
+
+img
+
+#content {
+    margin-left: 18px;
+    padding: 8px 0px;
+    width 10px;
+
+}
+
+h5{
+
+}
+
+.intro {
+    font size: 16px;
+
+}
+
+table {
+    border: solid 3px;
+    width 100%;
+
+}
+tr:nth-child (even) {
+    background-color: red;
+}
+
+
+body {
+display: block;
+background:
+}
+
+
